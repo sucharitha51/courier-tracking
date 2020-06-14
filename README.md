@@ -81,11 +81,11 @@ curl --location --request DELETE 'http://localhost:3000/couriers/10'
 ```
 
 ## Incase of space for improvements, I would like to accomplish below tasks
-1.use Docker
-2.Api functional tests
-3.Automatic migrations
-4.Add swagger
-5.Add deploy job to CircleCI
+1. use Docker
+2. Api functional tests
+3. Automatic migrations
+4. Add swagger
+5. Add deploy job to CircleCI
 
 About the race conditions we can lock the row on the db while updating.
 
