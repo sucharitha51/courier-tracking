@@ -7,7 +7,7 @@ This application is created using: Node/ExpressJS, MongoDB.
 
 ## Installation
 1. Download or clone the project
-2. Go into the project `cd stuart-courier`
+2. Go into the project `cd courier-tracking`
 3. You need to add MONGO_URI in config (dev.js) to connect to mongo database.
 3. To install dependencies run `npm install`
 4. To run the server `npm start`
